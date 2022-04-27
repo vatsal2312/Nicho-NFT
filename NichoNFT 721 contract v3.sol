@@ -6,9 +6,9 @@
 // SPDX-License-Identifier: MIT
 
 
-import "@openzeppelin/contracts/access/Ownable.sol";
-import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
-import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
+import "./Ownable.sol";
+import "./IERC20.sol";
+import "./ERC721Enumerable.sol";
 
 pragma solidity >=0.6.0 <0.9.0;
 
